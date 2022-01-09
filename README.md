@@ -2,6 +2,17 @@
 > Welcome To The World of Databases Collection ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about DevOps.
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
+### What is data?
+**Data** refers to any information that's captured and stored about a single person, place, thing, or object—called an entity—as well as the attributes of that entity.
+> For example, if you're capturing and storing information about local restaurants, each restaurant is one entity, and its name, address, and business hours are attributes of that entity. All of the information that you collect and store about your favorite restaurants is data.
+
+### What are Databases?
+At its most basic definition, a database is any collection of interrelated information.
+
+### What are databases used for?
+**Databases** are used to store and organize data so that it's easier to manage and access. As a collection of data grows and takes on more complexity, it becomes more difficult to keep that data organized, accessible, and secure. To help with that, you use database management systems (DBMS), which include a layer of management tools.
+
+
 ## Clojure
 
  * [Datomic](http://www.datomic.com/)
