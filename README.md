@@ -6,11 +6,17 @@
 - **Data** refers to any information that's captured and stored about a single person, place, thing, or object—called an entity—as well as the attributes of that entity.
 > For example, if you're capturing and storing information about local restaurants, each restaurant is one entity, and its name, address, and business hours are attributes of that entity. All of the information that you collect and store about your favorite restaurants is data.
 
+![data](https://github.com/exajobs/databases-collection/blob/main/img/data.png)
+
 ### What are Databases?
 - At its most basic definition, a database is any collection of interrelated information.
 
+![databases](https://github.com/exajobs/databases-collection/blob/main/img/databases.png)
+
 ### What are databases used for?
 - **[Databases](https://azure.microsoft.com/en-us/overview/what-are-databases/)** are used to store and organize data so that it's easier to manage and access. As a collection of data grows and takes on more complexity, it becomes more difficult to keep that data organized, accessible, and secure. To help with that, you use database management systems (DBMS), which include a layer of management tools.
+
+![data_types](https://github.com/exajobs/databases-collection/blob/main/img/data_types.png)
 
 ## Table of Contents
  - [Clojure](#clojure)
