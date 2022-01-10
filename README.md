@@ -10,7 +10,7 @@
 - At its most basic definition, a database is any collection of interrelated information.
 
 ### What are databases used for?
-- **Databases** are used to store and organize data so that it's easier to manage and access. As a collection of data grows and takes on more complexity, it becomes more difficult to keep that data organized, accessible, and secure. To help with that, you use database management systems (DBMS), which include a layer of management tools.
+- **[Databases](#=https://azure.microsoft.com/en-us/overview/what-are-databases/)** are used to store and organize data so that it's easier to manage and access. As a collection of data grows and takes on more complexity, it becomes more difficult to keep that data organized, accessible, and secure. To help with that, you use database management systems (DBMS), which include a layer of management tools.
 
 ## Table of Contents
  - [Clojure](#clojure)
