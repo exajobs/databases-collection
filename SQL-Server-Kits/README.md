@@ -11,11 +11,11 @@
 [issues badge]:https://img.shields.io/github/issues/ktaranov/sqlserver-kit.svg
 [contributors_badge]:https://img.shields.io/github/contributors/ktaranov/sqlserver-kit.svg
 
-[license]:https://github.com/ktaranov/sqlserver-kit/blob/master/LICENSE
-[stars]:https://github.com/ktaranov/sqlserver-kit/stargazers
-[forks]:https://github.com/ktaranov/sqlserver-kit/network
-[issues]:https://github.com/ktaranov/sqlserver-kit/issues
-[contributors]:https://github.com/ktaranov/sqlserver-kit/graphs/contributors
+[license]:https://github.com/exajobs/databases-collection/sql-server-kits/blob/master/LICENSE
+[stars]:https://github.com/exajobs/databases-collection/sql-server-kits/stargazers
+[forks]:https://github.com/exajobs/databases-collection/sql-server-kits/network
+[issues]:https://github.com/exajobs/databases-collection/sql-server-kits/issues
+[contributors]:https://github.com/exajobs/databases-collection/sql-server-kits/graphs/contributors
 
 Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
