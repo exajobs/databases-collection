@@ -42,7 +42,7 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
 
 
 ## Repo Folders and Files
- - [SQL Server Data Types](/SQL%20Server%20Data%20Types.md)
+ - [SQL Server Data Types](/databases-collection/SQL%20Server%20Data%20Types.md)
  - [SQL Server Drivers](/SQL%20Server%20Drivers.md)
  - [SQL Server Edition](/SQL%20Server%20Edition.md)
  - [SQL Server Hints](/SQL%20Server%20Hints.md)
@@ -57,7 +57,7 @@ Useful links, scripts, tools and best practice for Microsoft SQL Server Database
  - [Extended Events](/Extended_Events)
  - [Known Errors](/Errors)
  - [SQL Server Sample Databases and Datasets](/Sample_Databases)
- - [Scripts](/Scripts)
+ - [Scripts](/databases-collection/SQL-Server-kits/Scripts)
     - **Awesome SQL Server Diagnostic Information Queries** (by Glenn Alan Berry)
       - [SQL Managed Instance Diagnostic Information Queries](/Scripts/SQL%20Managed%20Instance%20Diagnostic%20Information%20Queries.sql)
       - [Azure SQL Database Diagnostic Information Queries](/Scripts/Azure%20SQL%20Database%20Diagnostic%20Information%20Queries.sql)
