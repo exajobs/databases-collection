@@ -14,14 +14,13 @@
 
 ## Table of Contents
  - [Clojure](#clojure)
- - [C / CPP](#ccpp)
- - [ddot-net](#ddot--net)
- - [Erlang]
- - Go-lang
- - JAVA
- - Javascript
- - Scala
- - Scala
+ - [C / CPP](#c--cpp)
+ - [ddot-net](#dot-net)
+ - [Erlang](#erlang)
+ - [Go-lang](#go-lang)
+ - [JAVA](#java)
+ - [Javascript](#javascript)
+ - [Scala](#scala)
 
 
 ## Clojure
